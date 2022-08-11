@@ -1,10 +1,9 @@
 package x01_two_sum;
 
+
 import org.junit.jupiter.api.Test;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -63,6 +62,5 @@ public class SolutionTest {
         assertEquals(0, index[0]);
         assertEquals(2, index[1]);
     }
-
 
 }
